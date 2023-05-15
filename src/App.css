@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+/* logo */
+.logo {
+  color: var(--white);
+  background-color: var(--red);
+  width: 38px;
+  height: 38px;
+  border-radius: 19px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  font-family: 'Shantell Sans', cursive;
+  font-size: var(--logo-size);
+}
+
+.logo-text {
+  align-self: center;;
+}
+
+
+/* button */
+.button {
+  background: var(--white) !important;
+  color: var(--red) !important;
+  border: none !important;
+  box-shadow: -1px 1px 3px 0px var(--red), 1px -1px 3px 0px var(--red);
+}
+
+.button:hover {
+  background: var(--red) !important;
+  color: var(--white) !important;
+}
+
+span.p-button-label.p-c, .pi {
+  font-size: var(--label-size) !important;
+}
+
+button.p-button.p-component.button {
+  padding: 0.6rem !important;
+}
+
+
+/* chips */
+span.p-chips-token-label {
+  font-size: var(--chips-size) !important;
+}
+
+
+/* navbar */
+.pi-home:before, .pi-info-circle:before, .pi-folder:before , .pi-envelope:before {
+  color: var(--red);
+}
+
+.p-menubar {
+  justify-content: space-between !important;
+}
+
+.p-component {
+  font-size: var(--navbar-link-size) !important;
+}
+
+
+/* footer */
+.footer {
+  background-color: var(--white);
+  box-shadow: -1px 1px 3px 0px var(--grey), 1px -1px 3px 0px var(--grey);
+  padding: 1rem;
+  margin-top: 1rem;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top: 40%;
+  right: 0;
+}
+
+@media screen and (max-width: 700px) {
+  .footer {
+    box-shadow: none;
+    border-top: 1px solid var(--grey);
+    border-bottom: 1px solid var(--grey);
+    padding: 1rem 0 0 0.5rem;
+    margin-top: 0;
+    flex-direction: row;
+    position: static;
+  }
+}
+
+
+/* resume */
+.section-heading {
+  border-bottom: 2px solid var(--white);
+  letter-spacing: 0.1rem;
+  font-weight: 500;
+  font-size: var(--resume-heading-size);
+}
+
+.section-subheading-title {
+  font-size: var(--resume-subheading-size);
+  color: var(--light-grey);
+}
+
+.section-subheading-description, .language-list {
+  font-size: var(--resume-subheading-size);
+  letter-spacing: 0.05rem;
+}
+
+p.section-subheading-description, .language-list, .project-name {
+  margin-top: 0.3rem;
+  margin-bottom: 0.3rem;
+}
+
+.profileName {
+  font-size: var(--resume-name);
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
+.profileName .designation {
+  font-size: var(--text-size);
+}
+
+.objective {
+  font-size: var(--resume-subheading-size);
+}
+
+.project-role {
+ font-size: var(--resume-subheading-size);
+}
