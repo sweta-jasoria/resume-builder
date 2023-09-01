@@ -1,0 +1,18 @@
+fileignoreconfig:
+- filename: build/static/css/main.bc23dfbf.css
+  checksum: f4d748743414e29d2272b69f04c8bf19552838fdb3c1b446ce3b74b491a80c79
+- filename: build/static/css/main.bc23dfbf.css.map
+  checksum: 860dc4c414fca9be1a3ec98ea31e760e7d7210997499258cf2e1db3f286a0b88
+- filename: build/static/js/787.dc9ee2bf.chunk.js
+  checksum: cae845c2c8bd234566bd0852e0245e35fa1988a6b0259183b6a022d8fd9b0289
+- filename: build/static/js/787.dc9ee2bf.chunk.js.map
+  checksum: 2d8d0b26da423edcc2909393e93fe8cc9d27cd22784560366edb4ac41a172a54
+- filename: build/static/js/main.5fdcd548.js
+  checksum: ca28f2891544a84f835aa86a4eb6e170bf40fe1ec7e85ebee4393ccb2071431d
+- filename: build/static/js/main.5fdcd548.js.map
+  checksum: 83f892b8f2fe37fd2968cce67d954b9d467f8406747ee5eeb4cc79e775c4d704
+- filename: build/static/media/primeicons.e1441b135b3ca9ad643c.svg
+  checksum: 93663f812d1e96e3c9f989272aeefa1247214f0148bc76b42d046d1c6b68048b
+- filename: package-lock.json
+  checksum: 6ed0d924556d2f45f4cfb179652bee74ab9d71d95d4c55ca0a389683fc2afa56
+version: "1.0"
