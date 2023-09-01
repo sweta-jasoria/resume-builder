@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.7739a0d2.css",
-    "main.js": "/static/js/main.fbeabcdd.js",
-    "static/js/787.dc9ee2bf.chunk.js": "/static/js/787.dc9ee2bf.chunk.js",
-    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
-    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
-    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
-    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
-    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
-    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
-    "index.html": "/index.html",
-    "main.7739a0d2.css.map": "/static/css/main.7739a0d2.css.map",
-    "main.fbeabcdd.js.map": "/static/js/main.fbeabcdd.js.map",
-    "787.dc9ee2bf.chunk.js.map": "/static/js/787.dc9ee2bf.chunk.js.map"
+    "main.css": "/resume-builder/static/css/main.bc23dfbf.css",
+    "main.js": "/resume-builder/static/js/main.5fdcd548.js",
+    "static/js/787.dc9ee2bf.chunk.js": "/resume-builder/static/js/787.dc9ee2bf.chunk.js",
+    "static/media/primeicons.svg": "/resume-builder/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/primeicons.eot": "/resume-builder/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/resume-builder/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/resume-builder/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/primeicons.woff2": "/resume-builder/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/color.png": "/resume-builder/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/resume-builder/index.html",
+    "main.bc23dfbf.css.map": "/resume-builder/static/css/main.bc23dfbf.css.map",
+    "main.5fdcd548.js.map": "/resume-builder/static/js/main.5fdcd548.js.map",
+    "787.dc9ee2bf.chunk.js.map": "/resume-builder/static/js/787.dc9ee2bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7739a0d2.css",
-    "static/js/main.fbeabcdd.js"
+    "static/css/main.bc23dfbf.css",
+    "static/js/main.5fdcd548.js"
   ]
 }
